@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<ModMetaData>
+  
+		<name>FFGermanShepherd Compatibility Patch for A Dog Said</name>
+  
+		<author>forestfey</author>
+  
+		<url>about:blank</url>
+  <targetVersion>0.16.1393</targetVersion>
+
+		<description>Adds surgery options from A Dog Said to the German Shepherd dogbreed. Chrome up your pupper and make those raiders flee in terror! Or just... keep them for a bit longer at your side.</description>
+	
+</ModMetaData>
