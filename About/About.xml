@@ -8,9 +8,9 @@
   
 		<url>about:blank</url>
   <supportedVersions>
-		<li>1.0</li>
+		<li>1.1</li>
 	</supportedVersions>
-
+<packageId>forestfey.GermanShepherdWyred</packageId>
 		<description>Adds surgery options from A Dog Said to the German Shepherd dogbreed. Chrome up your pupper and make those raiders flee in terror! Or just... keep them for a bit longer at your side.</description>
 	
 </ModMetaData>
